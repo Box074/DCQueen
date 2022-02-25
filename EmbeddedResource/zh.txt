@@ -1,0 +1,3 @@
+
+NAME_DC_QUEEN=王后
+DESC_DC_QUEEN=你会为此付出代价！

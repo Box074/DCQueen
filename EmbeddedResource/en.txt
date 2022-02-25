@@ -1,0 +1,3 @@
+
+NAME_DC_QUEEN=The Queen
+DESC_DC_QUEEN=You'll pay for that!

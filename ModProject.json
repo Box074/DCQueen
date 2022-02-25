@@ -1,0 +1,16 @@
+{
+  "ProjectName": "DCQueenLoader",
+  "ModVersion": "0.0.0.0",
+  "CodeDir": ".\\Scripts\\",
+  "EmbeddedResourceDir": ".\\EmbeddedResource\\",
+  "EmbeddedResource": {
+    "dcqueen": "DCQueenLoader.ab",
+    "zh.txt": "Languages.zh",
+    "en.txt": "Languages.en"
+  },
+  "Guid": "40f78a53-c434-42cb-9a93-67ec09184817",
+  "DependenciesDir": ".\\Dependencies\\",
+  "ModdingAPIVersion": "1.5.78.11833-67",
+  "IgnoreDlls": [],
+  "WebDependencies": []
+}
